@@ -1,0 +1,2 @@
+alias test-mysql="docker run -it --net mysql-network --rm mariadb mysql -h neutron-db -uroot -pstackdb"
+alias test-neutron-db-manage="docker run -it --net mysql-network --rm bradleyjones/neutron-db-manage-docker"
