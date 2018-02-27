@@ -1,0 +1,13 @@
+IKE DH Group xxxxx
+IKE Authmode xxxxx
+IPSec secret xxxxxxxxxxxx
+
+IPSec gateway xxxxxxxxxxxxxxx
+IPSec ID xxxxxxxxxxxxxxxx
+
+## To add your username and password,
+## use the following lines:
+Xauth username xxxxxxxxxxxx
+# Xauth password <your password>
+
+DPD idle timeout (our side) 0
